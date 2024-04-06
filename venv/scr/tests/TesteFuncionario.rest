@@ -10,11 +10,11 @@ Content-Type: application/json
 
 {
     "nome" : "Joãozinho da Silva", 
+    "matricula" : "12345", 
     "cpf" : "24534454535", 
     "telefone" : "494545455434", 
-    "senha" : "bolinhas", 
-    "matricula" : "12345", 
-    "grupo" : 1
+    "grupo" : 1,
+    "senha" : "bolinhas"
 }
 
 ### Verbo PUT – atualiza
