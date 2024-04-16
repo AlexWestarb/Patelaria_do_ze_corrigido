@@ -1,4 +1,5 @@
-@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhYmMiLCJleHAiOjE3MTI0OTU0MTN9.pVev7sJE9b8twxD9sCjVnTgVIUOac7CdbLw7IOk79jE
+@token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJhYmMiLCJleHAiOjE3MTI1NDIyMTR9.KnBvsshGjaTEPulq_YnSi66haiNsZ2FnqjOp-Mr5FrI
+
 
 ### Verbo GET – listar todos
 GET http://localhost:8000/produto/ HTTP/1.1
